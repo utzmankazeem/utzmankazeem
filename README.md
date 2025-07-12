@@ -2,10 +2,10 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am a graduate of **Bachelor's in Computer Science **.<br>
-    🌱 I currently use **Nodejs** for software Development.<br>
-    🎯 My Goal is to Contribute to as many **projects** as possible.<br>
-    ✨ Im a creator who loves different types of **contents & challenges**.
+    🎓 I am a **Software & Security Engineer**.<br>
+    🌱 A prompt Engineer for the love of **Ai**.<br>
+    🎯 My Goal is to use my knowledge to contribute & Impact Success.<br>
+    ✨ I'm a creator in various specs **.
 <td >
     <a href="https://app.daily.dev/utzmankazeem"><img src="https://api.daily.dev/devcards/3a2a88108478467db3e79f15889c88ae.png?r=7e8" width="400" alt="Kazeem Usman's Dev Card"/></a>
   </td>
