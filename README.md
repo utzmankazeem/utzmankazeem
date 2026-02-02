@@ -2,7 +2,7 @@
 <table>
 <tr>
   <td valign="center">
-     I am a **Software & Security Engineer**.<br>
+     I am a Software & Security Engineer.<br>
      Cybersecurity Engineer | Application & API Security | Imperva WAF/DAM Expert | Bridging Dev & Security with MERN Stack.A prompt Engineer, <br>
      A Cybersecurity Pre-Sales Engineer, Imperva (IASC) certified. a consultant with a strong technical foundation in security solutions, technical sales, and solutions engineering, with Hands-on experience in WAF/DAM, Api protection, Network Security, Data Security, DLP, and Cloud Security. I specialize in bridging the gap between business needs and cybersecurity technologies, helping organizations understand, adopt, and implement the right security solutions to mitigate risk.<br>
 <td >
